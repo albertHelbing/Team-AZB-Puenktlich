@@ -1,7 +1,5 @@
 # 🧠 2050 – Conscious Code
 
-> „Wenn Software versteht, **warum** sie etwas tut – beginnt sie, über sich selbst nachzudenken.“  
-> — Fiktives Zitat, 2050
 
 ---
 
