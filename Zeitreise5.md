@@ -6,7 +6,7 @@
 
 ---
 
-<img src="images/InternetZeitreisePic.jpg" style="margin-top: 130" alt="Early Internet" align="right" width="220">
+<img src="images/InternetZeitreisePic.jpg" style="margin-top: 230" alt="Early Internet" align="right" width="350">
 
 ## 💡 Revolution
 
