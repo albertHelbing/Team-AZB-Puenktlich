@@ -5,7 +5,7 @@
 
 ---
 
-<img src="images/Parnas.jpg" style="margin-top: 130" alt="David Parnas" align="right" width="220">
+<img src="images/Parnas.gif" style="margin-top: 130" alt="David Parnas" align="right" width="220">
 
 ## 🧠 Hintergrund
 
