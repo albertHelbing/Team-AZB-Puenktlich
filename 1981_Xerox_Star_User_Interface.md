@@ -5,7 +5,7 @@
 
 ---
 
-<img src="images/Xerox_Star_Interface.jpg" style="margin-top: 130" alt="Xerox Star Interface" align="right" width="220">
+<img src="images/Alan_Kay.jpeg" style="margin-top: 130" alt="Xerox Star Interface" align="right" width="220">
 
 ## 🧠 Hintergrund
 
@@ -18,6 +18,12 @@ Während **Apple (Lisa, Macintosh)** und **Microsoft (Windows)** diese Ideen sp�
 war der **Xerox Star** der wahre Pionier:  
 Er verband Software erstmals systematisch mit Prinzipien der **menschlichen Wahrnehmung**  
 und legte damit den Grundstein für die moderne **Human-Computer-Interaction (HCI)**.
+
+---
+
+<img src="images/Xerox_Star_Interface.jpg" alt="Xerox Star Interface" width="280" style="border-radius: 12px; margin-top: 20px; margin-bottom: 10px;">
+
+> Xerox Star 8010 Interface
 
 ---
 
