@@ -1,8 +1,5 @@
 # 🔧 2040 – The Synthetic Developer
 
-> „Software schreibt sich nicht mehr nur selbst – sie **entscheidet**, was geschrieben werden sollte.“  
-> — Fiktives Zitat, 2040
-
 ---
 
 <img src="images/SyntheticDeveloper.jpg" style="margin-top: 130" alt="AI Developer Collaboration" align="right" width="260">
