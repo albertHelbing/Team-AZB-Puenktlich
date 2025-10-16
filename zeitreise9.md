@@ -1,11 +1,15 @@
 # 🧠 2016 – AlphaGo und die Selbstoptimierung von Software
 
-<img src="images/Lee_Se-Dol.jpg" style="margin-top: 130" alt="Beschreibung" align="right" width="220">
+
 
 > „Wir dachten, Go sei zu komplex für Maschinen – bis AlphaGo kam.“  
 > — Demis Hassabis, CEO DeepMind
 
 ---
+
+
+
+<img src="images/Lee_Se-Dol.jpg" style="margin-top: 130" alt="Beschreibung" align="right" width="220">
 
 ## 🧩 Hintergrund
 
