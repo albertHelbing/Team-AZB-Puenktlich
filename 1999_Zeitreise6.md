@@ -1,4 +1,4 @@
-# ⚙️ 1999 – The Birth of Extreme Programming (XP)
+# 👨‍💻 1999 – The Birth of Extreme Programming (XP)
 
 > “Do the simplest thing that could possibly work.”  
 > — Kent Beck, 1999
