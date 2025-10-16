@@ -5,7 +5,7 @@
 
 ---
 
-<img src="images/Extreme-ProgrammingZeitreise.jpg" style="margin-top: 130" alt="Extreme Programming" align="right" width="220">
+<img src="images/Extreme-ProgrammingZeitreise.jpg" style="margin-top: 200" alt="Extreme Programming" align="right" width="370">
 
 ## 💡 Revolution
 
