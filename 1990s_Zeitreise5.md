@@ -26,14 +26,14 @@ The web connected developers across the world, while open source created a cultu
 | 💾 **Free Distribution**       | Allowed anyone to share, modify, and improve code from anywhere.          |
 
 Example:  
-A student from any country could now collaborate on the same code — whether it was Linux, Apache, or Mozilla.
+Group of students from different countries could now collaborate on the same code.
 
 ---
 
 ## 🚀 Impact
 
 - 🤝 **Global Collaboration** – Developers began working together across borders.  
-- 💬 **Knowledge Exchange** – Early online communities and mailing lists (e.g., SourceForge).  
+- 💬 **Knowledge Exchange** – Early online communities and mailing lists.  
 - 🧩 **Faster Innovation** – Ideas spread in days instead of years.  
 - 💰 **New Business Models** – Companies like Red Hat and Google grew from open-source roots.  
 
