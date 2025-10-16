@@ -24,7 +24,7 @@ Sie verstehen ihre eigenen Optimierungsmetriken und passen ihr Verhalten an **ü
 | 🧠 **Intentional Programming** | Software versteht und hinterfragt die Absicht hinter ihrem Verhalten. |
 
 Beispiel:  
-Ein System erkennt, dass eine Optimierung zwar Rechenzeit spart, aber den Energieverbrauch erhöht – und entscheidet sich bewusst für Nachhaltigkeit.
+Eine selbstlernende Software entdeckt eine neue, effizientere Architektur, testet sie in einer sicheren Sandbox und entscheidet, sie nicht produktiv einzusetzen, da sie Sicherheitsrisiken birgt.
 
 ---
 
