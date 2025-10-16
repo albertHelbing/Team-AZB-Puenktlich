@@ -1,12 +1,12 @@
 # 🤖 2032 – Autonomous Refactoring Systems
 
-<img src="images/AI-Data-Visualization.jpg" style="margin-top: 130" alt="Beschreibung" align="right" width="220">
+
 
 > „Code wird bald nicht mehr _geschrieben_, sondern _kuriert_.“  
 > — Fiktives Zitat, 2032
 
 ---
-
+<img src="images/AI-Data-Visualization.jpg" style="margin-top: 130" alt="Beschreibung" align="right" width="220">
 ## 🔮 Vision
 
 Im Jahr **2032** haben sich KI-Systeme so weit entwickelt, dass sie **Legacy-Code eigenständig verstehen, bewerten und verbessern** können.  
