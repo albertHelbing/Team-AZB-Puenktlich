@@ -1,2 +1,2 @@
-# AZB_Zeitreise
-Zeitreise für Software Engineering 
+# Software-Engineering Zeitreise
+Zeitreise von Team AZB
