@@ -1,6 +1,6 @@
-## 🧭 2001 – The Agile Manifesto and Modern Development Practices
+## 2001 – The Agile Manifesto and Modern Development Practices
 
-### 🖥️ Slide 1: The Birth of the Agile Manifesto (2001)
+### The Birth of the Agile Manifesto (2001)
 
 **Main Points:**
 - Seventeen software leaders met in **Snowbird, Utah**, to improve software development practices.  
@@ -15,7 +15,7 @@
 
 ---
 
-### 🚀 Slide 2: Why Agile Matters Today
+### Why Agile Matters Today
 
 **Main Points:**
 - Made **adaptability** and **communication** central to software development.  
