@@ -1,4 +1,4 @@
-# 🔧 2040 – The Synthetic Developer
+# 2040 – The Synthetic Developer
 
 ---
 
