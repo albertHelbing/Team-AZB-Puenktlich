@@ -49,8 +49,3 @@ AlphaGo war der **Beginn einer neuen Ära** – vom „crafted code“ zum „ev
 -   **Adaptive Systeme**: Software, die sich an Nutzer und Umgebung dynamisch anpasst.
 
 ---
-
-## 💡 Fazit
-
-AlphaGo zeigte, dass Software **nicht nur Werkzeuge**, sondern **lernende Partner** werden können.  
-Es war der Moment, in dem **Software begann, sich selbst zu verstehen** – ein echter Wendepunkt in der Geschichte des Software Engineerings.
