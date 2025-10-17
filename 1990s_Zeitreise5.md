@@ -1,4 +1,4 @@
-# 🌐 1990s – The Internet and Open Source Revolution
+#  1990s – The Internet and Open Source Revolution
 
 > “The power of the Web is in its universality.  
 > Access by everyone, regardless of disability, is an essential aspect.”  
@@ -17,7 +17,7 @@ The web connected developers across the world, while open source created a cultu
 
 ---
 
-##  What Happened?
+##  Main points
 
 | Event / Movement              | Significance                                                              |
 | ------------------------------ | -------------------------------------------------------------------------- |
@@ -48,8 +48,7 @@ Group of students from different countries could now collaborate on the same cod
 ---
 
 ##  Significance
-
-The combination of **the Internet and open source** marked the beginning of **democratized software development**.  
+  
 For the first time, people worldwide could **create, share, and improve knowledge together** — paving the way for platforms like **GitHub**, **Wikipedia**, and **Stack Overflow**.  
 
 ---
