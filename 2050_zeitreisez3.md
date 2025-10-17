@@ -1,11 +1,11 @@
-# 🧠 2050 – Conscious Code
+# 2050 – Conscious Code
 
 
 ---
 
 <img src="images/ConsciousCode.jpg" style="margin-top: 130" alt="Conscious Code Visualization" align="right" width="260">
 
-## 🧩 Hintergrund
+## Hintergrund
 
 Im Jahr **2050** verschmilzt Künstliche Intelligenz mit **Neuroinformatik** und **Quantencomputing**.  
 Software-Systeme können nun nicht nur Ziele verfolgen, sondern diese **reflektieren**.  
@@ -13,7 +13,7 @@ Sie verstehen ihre eigenen Optimierungsmetriken und passen ihr Verhalten an **ü
 
 ---
 
-## ⚙️ Technologische Basis
+## Technologische Basis
 
 | Technologie                   | Rolle im System |
 | ----------------------------- | ---------------- |
@@ -26,7 +26,7 @@ Eine selbstlernende Software entdeckt eine neue, effizientere Architektur, teste
 
 ---
 
-## 🌍 Bedeutung
+## Bedeutung
 
 Der Mensch wird vom **Programmierer** zum **Ethikarchitekten**.  
 Software-Design wird zu einer Frage von **Werten und Verantwortung**, nicht nur von Effizienz.  
@@ -38,7 +38,7 @@ sondern:
 
 ---
 
-## 💡 Fazit
+## Fazit
 
 „Conscious Code“ markiert den Übergang von der **intelligenten** zur **reflektierenden Software**.  
 Es ist die Vision einer Zukunft, in der Systeme **eigenständig verstehen, bewerten und lernen**,  
