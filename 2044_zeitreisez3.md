@@ -39,5 +39,5 @@ im Code zu treffen und die KI richtig zu leiten.
 ## Fazit
 
 „Conscious Code“ markiert den Übergang von der **intelligenten** zur **reflektierenden Software**.  
-Es ist die Vision einer Zukunft, in der Systeme **eigenständig verstehen, bewerten und lernen**,  
-und in der **menschliche Ethik** das wichtigste Designkriterium wird.
+Es ist die Vision einer Zukunft, in der Systeme **eigenständig verstehen, bewerten und lernen** können,  
+und in der die **menschliche Ethik** das wichtigste Designkriterium wird.
