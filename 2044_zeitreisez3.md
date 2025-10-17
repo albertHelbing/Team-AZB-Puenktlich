@@ -7,9 +7,9 @@
 
 ## Hintergrund
 
-Im Jahr **2050** verschmilzt Künstliche Intelligenz mit **Neuroinformatik** und **Quantencomputing**.  
-Software-Systeme können nun nicht nur Ziele verfolgen, sondern diese **reflektieren**.  
-Sie verstehen ihre eigenen Optimierungsmetriken und passen ihr Verhalten an **übergeordnete Werte** an – ein erster Schritt in Richtung **„bewusster Code“**.
+Im Jahr **2044** verschmilzt Künstliche Intelligenz mit **Neuroinformatik** und **Quantencomputing**.  
+Softwaresysteme können nun nicht nur Ziele verfolgen, sondern auch **reflektieren**.  
+Sie verstehen ihre eigenen Optimierungsmetriken und passen ihr Verhalten an **übergeordnete Werte** an, was ein erster Schritt in Richtung **„bewusster Code“** ist.
 
 ---
 
@@ -17,12 +17,12 @@ Sie verstehen ihre eigenen Optimierungsmetriken und passen ihr Verhalten an **ü
 
 | Technologie                   | Rolle im System |
 | ----------------------------- | ---------------- |
-| 🧬 **Neuro-symbolische KI**   | Verknüpft logisches Denken mit neuronalen Lernprozessen. |
-| ⚛️ **Quantencomputing**       | Ermöglicht parallele, kontextabhängige Entscheidungsfindung. |
-| 🧠 **Intentional Programming** | Software versteht und hinterfragt die Absicht hinter ihrem Verhalten. |
+|  **Neuro-symbolische KI**   | Verknüpft logisches Denken mit neuronalen Lernprozessen. |
+|  **Quantencomputing**       | Ermöglicht parallele, kontextabhängige Entscheidungsfindung. |
+|  **Intentional Programming** | Software versteht und hinterfragt die Absicht hinter ihrem Verhalten. |
 
 Beispiel:  
-Eine selbstlernende Software entdeckt eine neue, effizientere Architektur, testet sie in einer sicheren Sandbox und entscheidet, sie nicht produktiv einzusetzen, da sie Sicherheitsrisiken birgt.
+Eine selbstlernende Software entdeckt eine neue, effizientere Architektur, testet sie in einer sicheren Sandbox und entscheidet, sie nicht einzusetzen, da sie Sicherheitsrisiken birgt.
 
 ---
 
@@ -31,10 +31,8 @@ Eine selbstlernende Software entdeckt eine neue, effizientere Architektur, teste
 Der Mensch wird vom **Programmierer** zum **Ethikarchitekten**.  
 Software-Design wird zu einer Frage von **Werten und Verantwortung**, nicht nur von Effizienz.  
 
-Die Kernfrage lautet nicht mehr:  
-> „Wie funktioniert der Code?“  
-sondern:  
-> „Warum funktioniert er so – und sollte er das?“  
+Dadurch verschiebt sich der Fokus: Statt nur Funktionen zu optimieren, geht es darum, die richtigen Entscheidungen 
+im Code zu treffen und die KI richtig zu leiten.
 
 ---
 
