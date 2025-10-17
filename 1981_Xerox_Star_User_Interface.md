@@ -1,4 +1,4 @@
-# 🖥️ 1981 – Xerox Star und die Entstehung des modernen User Interface
+# 1981 – Xerox Star und die Entstehung des modernen User Interface
 
 > „The best way to predict the future is to invent it.“  
 > — Alan Kay, Xerox PARC
@@ -7,7 +7,7 @@
 
 <img src="images/Alan_Kay.jpeg" style="margin-top: 130" alt="Xerox Star Interface" align="right" width="220">
 
-## 🧠 Hintergrund
+## Hintergrund
 
 Im Jahr **1981** stellte **Xerox** mit dem **Xerox Star 8010** das erste Computersystem vor,  
 das das heute selbstverständliche **Desktop-Paradigma** einführte.  
@@ -27,7 +27,7 @@ und legte damit den Grundstein für die moderne **Human-Computer-Interaction (HC
 
 ---
 
-## ⚙️ Technische Innovation
+## Technische Innovation
 
 | Konzept                        | Bedeutung                                                                 |
 | ------------------------------ | -------------------------------------------------------------------------- |
@@ -41,30 +41,21 @@ nicht nur für Spezialisten, sondern für die breite Öffentlichkeit.
 
 ---
 
-## 🚀 Bedeutung für Software Engineering
+## Bedeutung für Software Engineering
 
-- 🧍‍♀️ **Benutzerzentriertes Design**: Fokus auf den Menschen statt auf die Maschine  
-- 🎨 **UX/UI als Qualitätsmerkmal**: Ästhetik, Usability und Interaktion werden messbar  
-- 🪟 **Standardisierung von Interfaces**: Grundlage moderner Betriebssysteme  
-- 🌐 **Interdisziplinarität**: Verbindung von Informatik, Psychologie und Design  
+-  **Benutzerzentriertes Design**: Fokus auf den Menschen statt auf die Maschine  
+-  **UX/UI als Qualitätsmerkmal**: Ästhetik, Usability und Interaktion werden messbar  
+-  **Standardisierung von Interfaces**: Grundlage moderner Betriebssysteme  
+-  **Interdisziplinarität**: Verbindung von Informatik, Psychologie und Design  
 
 Der Xerox Star zeigte, dass **gute Software nicht nur funktioniert**,  
 sondern sich auch **richtig anfühlen** muss.
 
 ---
 
-## 🌍 Einfluss auf heutige Technologien
+## Einfluss auf heutige Technologien
 
 - **Graphical Operating Systems** – Windows, macOS, Linux-Desktops  
-- **Mobile UX-Design** – Touch-Interfaces auf Smartphones und Tablets  
 - **Design Thinking** – Methodik zur nutzerzentrierten Softwareentwicklung  
 - **Accessibility & Inclusivity** – Software für alle Nutzergruppen  
 
----
-
-## 💡 Fazit
-
-Mit dem Xerox Star begann die Ära der **visuellen Software-Erfahrung**.  
-Er machte aus Computern Werkzeuge, die Menschen verstehen und benutzen können –  
-und machte **User Experience** zu einem **zentralen Bestandteil des Software Engineerings**.  
-Ohne ihn gäbe es keine modernen GUIs, Apps oder interaktiven Systeme, wie wir sie heute kennen.
