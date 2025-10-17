@@ -32,14 +32,14 @@ Softwareentwicklung wird zu einem **Dialog zwischen Mensch und Maschine**:
 Entwickler*innen definieren Ziele, ethische Leitplanken und Qualitätsstandards,  
 während der „Synthetic Developer“ selbstständig Wege findet, diese umzusetzen.  
 
-So entsteht ein neues Paradigma – von der **Werkzeug-KI** zur **kreativen Co-Entwicklerin**.
+So entsteht ein neues Paradigma – von dem **Werkzeug KI** zum vollwertigen **Co-Entwickler**.
 
 ---
 
 ## Fazit
 
 Der „Synthetic Developer“ steht für den nächsten großen Sprung im Software Engineering:  
-Eine Zukunft, in der **Software aktiv an ihrer eigenen Weiterentwicklung teilnimmt** –  
+Eine Zukunft, in der **Software aktiv an ihrer eigenen Weiterentwicklung teilnimmt**,  
 und die Rolle des Menschen sich von der Umsetzung hin zur **Strategie und Verantwortung** verschiebt.
 
 ---
