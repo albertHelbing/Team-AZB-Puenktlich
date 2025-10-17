@@ -32,7 +32,7 @@ Der Mensch wird vom **Programmierer** zum **Ethikarchitekten**.
 Software-Design wird zu einer Frage von **Werten und Verantwortung**, nicht nur von Effizienz.  
 
 Dadurch verschiebt sich der Fokus: Statt nur Funktionen zu optimieren, geht es darum, die richtigen Entscheidungen 
-im Code zu treffen und die KI richtig zu leiten.
+im Code zu treffen und die Software richtig zu leiten.
 
 ---
 
