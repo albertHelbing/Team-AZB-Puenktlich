@@ -1,2 +1,2 @@
-# Software-Engineering Zeitreise
-Zeitreise von Team AZB
+# Software-Engineering Pünktlich
+Repo von Team AZB (Pünktlich)
