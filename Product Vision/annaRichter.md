@@ -1,5 +1,7 @@
 #  Persona: Anna Richter – Die Vielbeschäftigte Karrierefrau
 
+<img src="images/Anna-Richter.jpg" style="margin-top: 130" alt="Beschreibung" align="right" width="220">
+
 ## Image / Avatar
 34 Jahre alt, Projektmanagerin in einem großen Consulting-Unternehmen in Frankfurt. Immer mit Laptop, Smartphone und Coffee-to-go unterwegs. Elegant gekleidet, aber oft unter Zeitdruck.
 
