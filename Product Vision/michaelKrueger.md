@@ -1,5 +1,7 @@
 #  Persona: Michael Krüger – Der verlässliche Schichtmeister
 
+<img src="Michael Krüger.jpg" style="margin-top: 130" alt="Beschreibung" align="right" width="220">
+
 ## Image / Avatar
 52 Jahre alt, seit 30 Jahren bei Mercedes-Benz (Werk Sindelfingen). Blaue Arbeitsjacke, Werksausweis am Clip, Sicherheitsstiefel. Fährt Kombi, hat immer ein Notizbuch und ein robustes Smartphone dabei.
 
