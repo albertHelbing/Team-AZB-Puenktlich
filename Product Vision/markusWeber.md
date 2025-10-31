@@ -1,5 +1,7 @@
 #  Persona: Lukas Weber – Der Soziale Student
 
+<img src="Markus-Weber.jpg" style="margin-top: 130" alt="Beschreibung" align="right" width="220">
+
 ## Image / Avatar
 22 Jahre alt, Student der Betriebswirtschaft in München. Meist mit Kopfhörern und Rucksack unterwegs, lächelt oft, lebt spontan.
 
